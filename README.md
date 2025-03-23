@@ -1,69 +1,61 @@
-# Welcome to your Lovable project
+# IRCTC Train Booking Redesign 🚆✨
 
-## Project info
+## Overview
 
-**URL**: https://lovable.dev/projects/598bb191-c943-4a1c-8046-d0742da84ef5
+Live Link: [Your Deployed Project](https://your-live-link.com)
 
-## How can I edit this code?
+This project is a futuristic, high-performance redesign of the IRCTC train booking website. Built with a sleek, **dark-mode-first** design, it features a **neon blue and white** theme for a modern look. The interface enhances usability with an **AI-powered train search bar**, a **seamless step-by-step booking flow**, and a **live train tracking dashboard** using **Leaflet.js**.
 
-There are several ways of editing your application.
+## 🚀 Features
+- **AI-Powered Train Search**: Auto-suggestions for station and train names.
+- **Step-by-Step Booking Flow**: Intuitive, user-friendly ticket booking process.
+- **Live Train Tracking Dashboard**: Interactive map powered by **Leaflet.js**.
+- **Dynamic Pricing Charts**: Real-time price trends using **Chart.js**.
+- **Smooth Animations & Micro-Interactions**: Enhanced UX with **Framer Motion/GSAP**.
+- **Dark Mode First**: Sleek, futuristic UI with **neon blue & white** theme.
+- **Fully Responsive**: Optimized for **mobile, tablet, and desktop**.
+- **Performance Optimizations**:
+  - Lazy-loaded assets for faster page load.
+  - Minimal re-renders for improved efficiency.
+  - SVG icons for lightweight UI.
+- **Accessibility**: WCAG-compliant for an inclusive experience.
 
-**Use Lovable**
+## 🛠️ Tech Stack
+- **Frontend**: React (Next.js), Tailwind CSS, ShadCN UI
+- **Maps & Tracking**: Leaflet.js
+- **Animations**: Framer Motion / GSAP
+- **Charts**: Chart.js
+- **Icons & UI Components**: SVGs, ShadCN UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/598bb191-c943-4a1c-8046-d0742da84ef5) and start prompting.
+## 📦 Installation & Setup
 
-Changes made via Lovable will be committed automatically to this repo.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/irctc-redesign.git
+   cd irctc-redesign
+   ```
 
-**Use your preferred IDE**
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+   Open `http://localhost:3000` in your browser to view the app.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🎨 UI Previews
+*(Attach screenshots of the redesigned UI here)*
 
-Follow these steps:
+## 📜 License
+This project is open-source and available under the MIT License.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🌟 Show Your Support
+If you find this project helpful, ⭐ the repo and share it with others!
 
-# Step 3: Install the necessary dependencies.
-npm i
+Happy Coding! 🚀
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/598bb191-c943-4a1c-8046-d0742da84ef5) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
