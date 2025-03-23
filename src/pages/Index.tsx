@@ -405,7 +405,7 @@ const Index = () => {
               <div className="w-full max-w-[1540px] mx-auto"> 
                 <div className="absolute inset-0 bg-gradient-radial from-primary/20 to-transparent rounded-full blur-2xl -z-10 opacity-70"></div>
                 <img 
-                  src="https://media-hosting.imagekit.io//1bd2fdbaab4e40c6/Screenshot%202025-03-22%20162228_waifu2x_photo_noise3_scale.png?Expires=1837276164&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=nxfl30M29ImaA2~LYmH72tg~UiuULhqLHriPDsOED48oVZ3LWAp-FhKgjEnWXnF9gLHkZSXDvVEl0VPIRZEUreqqczt3iWXthXbD6EjDAKtj4GsZ4kOucZgCyrhsHN9TLwB54W9~cLLvPqM4PNt2bZtVgFtf0olKjpK~ozjUOscwrF0fQ5grjg0V5EBV6lzGb~LMwuIOGIQT3teql3I~BiXKgS~-CcHcmG4gm6fiftrn5eCkdqlmt8AspaGQ-mRi8Z99hdP67bk79ugpGYuiKLSie02PeMb1zoGwnB3iqRt7Eh7YjPV9ln9Epfit5mQ4SoO79uRL2bzWjYZqyM6EuA__" 
+                  src="https://media-hosting.imagekit.io//95cabebe051a472b/Photoroom-20250323_164505.png?Expires=1837336688&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RsjdV3XvuuX3SvCfo2pY7LGzGMYApFVYHgkNZK5byHuvz6vj6G8JgnEcClKL8QvB9-XrEW2N2mRPHGL4g6-NnNghED155jht5IoyzkW0nUVzavT3O2YIqWTHM~WTDmPCOUFJddq6TLhp4QgSqvWwv3jYddqWSXy5rHUDAIgKTxrGvg6WctCsmuRyZAdtr~Zz4THpqCuC8raMF1NrazRI4DQKrnLwKQ0qXI1nKfrapKdbZdjGM-3voNBYw3n2f~XWkHbYialH~LVivq1TPoTsO5b1M70v1mbqHXmmEbeoimKFcqJQlhtPj1Rhsuro0pR9b4a6RyTFd5oiuSZyxZEFBA__" 
                   alt="IRCTC App" 
                   className="w-full h-auto scale-110"
                 />
