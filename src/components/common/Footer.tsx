@@ -9,7 +9,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <Train className="h-6 w-6 text-primary" />
+            <img
+              src="https://i.pinimg.com/736x/73/d4/28/73d428d4849adf3d6347bcedb20f3357.jpg"
+              alt="IRCTC Logo"
+              className="h-6 w-6"
+            />
               <span className="text-lg font-semibold">IRCTC</span>
             </div>
             <p className="text-sm text-muted-foreground">
