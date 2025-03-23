@@ -50,7 +50,7 @@ const Index = () => {
   <div 
     className="absolute inset-0 z-0 bg-cover bg-center" 
     style={{ 
-      backgroundImage: "url('https://media-hosting.imagekit.io//c0b685aae08a44fd/2.jpg?Expires=1837269568&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FwRqB2-kOv3DdhKP92MtU3sXWng0UKtlTnxMvcrDczC-tSuAmAfXgTn8B5WbPidQIibImGoxyYY4xpQTbUDj3LopeHXee~SkXwcNSaChvtRXyE2yvOok5~gdLG7Vu5m5L0Xzkvgpv-otBeiHJUiSehTM3TkqeQwX1JBrZ6uOaR3IkdM9K9WKzT8MRvDwbIzr8yDVHOhHQeSaw4ywt47feN5KcdYAKRWgXRB4AGDDshFTkvEy-Qs3dbdnXq07OUefBeKfAYJ6AIeScegjzGxPnYxko94yoAy~vA3nzrR5NMlFXppvf9mO99X64Zn2PJ9waC2W7qK~UhNyumyhTfYlig__')",
+      backgroundImage: "url('https://media-hosting.imagekit.io//66b3377de0314aa6/WhatsApp%20Image%202025-03-23%20at%2016.27.25_aff511a9_waifu2x_photo_noise3_scale.png?Expires=1837335599&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ke9XLk2Yj1tQIxFlDGocUjBDxqSB0OgpGr5hqV9rFDGDqfM9TclbW29wqlnibiIVNlzmISl3usqfGLAsx19D4gAaDAZsyLMw7NfiniwysWbkNIjzCrck-fiFID80lfGk89ELfXRZBDMjrmoBKKidaGrL~JcDnl2btf8oqxLe8or0Cit~w8dkx2R4ORDJTaZEIuDjy5hdaJEeqha-91b8uiVsmxTZ2e2yWfPhnehe2-mCJ7eHkbtp76B8Dc3PZuYh3lpOQPjG3Yxm~otmqOxdDOvtcNZiAOxQ~2t6Z8FE5jACJiJzDFoepBJnZ0Mty584~6cVMYcFF5mOuVUWhPXHEQ__')",
       filter: "brightness(0.4)"
     }}
   ></div>
