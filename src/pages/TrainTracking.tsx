@@ -200,7 +200,7 @@ const TrainTracking = () => {
     // Simulate map rendering
     if (mapContainerRef.current && hasSearched) {
       const mapImg = document.createElement("img");
-      mapImg.src = "https://framerusercontent.com/images/AZ7CemeSMvPmulWmxMbVDZQe3o.jpg";
+      mapImg.src = "https://media-hosting.imagekit.io//e1d6615e5e034192/Screenshot%202025-03-23%20170752_waifu2x_photo_noise3_scale.png?Expires=1837337918&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1KzLhLYFUpaXq8CJaVE2INC6lMJWfXDelUbJ~9pyL42mmwASauYe20ezALY3E8k90mtgZOLSXX-fbL2hs9s6uYWVMi2z8F8nPd3RMj~8a4fsANDLC71-5~16bhBl3Oxv1OAjc5JuNmCVlckOv6IiG~vjQ7CkwyA88grdIMNNPahmaDBjfm7MpxLV1JZ1rV5F9EUm10dF2FHwwcfHcrEy30g260jaaLQdVqK2IttmJgbF~Vi~w3ANlHJ1OKoF~8ISPHBj7mjn~iwflHoM1HBVDrkx2rNCodzUHq4lwH9tol31w7ZUl--MrK0P-lx2u1Vd07fSwvGonIU80FQ-hcUhWA__";
       mapImg.className = "w-full h-full object-cover rounded-lg";
       mapContainerRef.current.innerHTML = "";
       mapContainerRef.current.appendChild(mapImg);
