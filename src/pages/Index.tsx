@@ -389,7 +389,7 @@ const Index = () => {
                     <path d="m5 11 4 7"></path>
                     <path d="m19 11-4 7"></path>
                   </svg>
-                  <span className="text-sm">Offline Booking</span>
+                  <span className="text-sm">Online Booking</span>
                 </div>
                 <div className="flex items-center gap-1 text-muted-foreground">
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
