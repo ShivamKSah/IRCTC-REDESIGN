@@ -20,3 +20,13 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react'; // or vue
+
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    historyApiFallback: true, // Ensures client-side routing works
+  }
+});
